@@ -1,117 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,50:ea80fc,100:ff80ab&height=200&section=header&text=wicaksono&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Game+Dev+%7C+AI+Engineer+%7C+Dreamer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Header Image (Waifu) -->
+<img src="https://res.cloudinary.com/dxdon9nfs/image/upload/v1780918590/wallpaperflare.com_wallpaper_4_zj37lq.jpg" width="100%" alt="Header Image" style="border-radius: 12px; border: 2px solid #4a0b17;" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+# 🐙 The normal Human
 
-```
-╔════════════════════════════════════════════════════╗
-║  「 Turning imagination into reality, one line     ║
-║      of code at a time. 」                         ║
-╚════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=EA80FC&center=true&vCenter=true&width=500&lines=Building+worlds+through+Game+Dev+%F0%9F%8E%AE;Teaching+machines+to+think+%F0%9F%A4%96;Always+learning%2C+always+creating+%E2%9C%A8;satriyoo09+%7C+wicaksono)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF3355&center=true&vCenter=true&width=500&lines=Game+Developer+in+the+making;Learning+Unity+%26+Godot;A+Human+living+the+dream;satriyoo09)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌸 Who Am I
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Left Column: Bio & Tech Stack -->
+    <td width="55%" valign="top">
+      
+      ### 💮 Profile Details
+      
+      -  **Name:** Satriyo
+      -  **Age:** 16 Years Old
+      -  **Class:** XPPLG6 (Software Product Development)
+      -  **School:** SMK Telkom Purwokerto
+      -  **Location:** Adisana - Situmang - Banyumas, Jawa Tengah, Indonesia 🇮🇩
+      -  **Goal:** Becoming a Game Developer 🎮
+      -  **Hobby:** Bermain Game
+      -  **Waifus:** March 7th, Evernight, Hysiles, Rimuru, Lilith
 
-```yaml
-name       : wicaksono
-username   : satriyoo09
-location   : Indonesia 🇮🇩
+      <br/>
 
-focus_areas:
-  - 🎮 Game Development
-  - 🤖 Artificial Intelligence & Machine Learning
-  - 🧠 Neural Networks & Deep Learning
-  - 🕹️ Interactive Experiences
+      ###  Learning Progress
+      
+      *Currently mastering and exploring:*
+      <br/>
+      
+      [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white&color=8B0000)](https://godotengine.org/)
+      [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=5C0000)](https://unity.com/)
 
-currently:
-  working_on : Building AI-driven game mechanics
-  learning   : Reinforcement Learning & Game AI
-  exploring  : Procedural generation with ML
+      <br/><br/>
 
-fun_fact: >
-  I believe games are the best way to test AI 🎯
-```
+      ### ⚔️ Tech Arsenal
+      
+      - **Languages:** C#, GDScript, Python, TypeScript
+      - **Engines:** Unity, Godot
+      - **AI & ML:** TensorFlow, PyTorch
+      - **Tools:** Git, GitHub, VS Code
 
----
+    </td>
+    <!-- Right Column: GitHub Statistics -->
+    <td width="45%" valign="top" align="center">
 
-## ⚔️ Tech Arsenal
+      ### 📊 GitHub Statistics
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=satriyoo09&show_icons=true&bg_color=0c0002&title_color=ff2a5f&icon_color=ff4b72&text_color=e3d5d7&border_color=4a0b17&border_radius=12" width="100%" alt="GitHub Stats" />
+      
+      <br/><br/>
+      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriyoo09&layout=compact&bg_color=0c0002&title_color=ff2a5f&text_color=e3d5d7&icon_color=ff4b72&border_color=4a0b17&border_radius=12" width="100%" alt="Top Languages" />
 
-<div align="center">
-
-**🎮 Game Dev**
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
-**🤖 AI / Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-**🛠️ Tools & Others**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=satriyoo09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea80fc&icon_color=b388ff&text_color=ffffff&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriyoo09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea80fc&text_color=ffffff&border_radius=12" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=satriyoo09&theme=tokyonight&hide_border=true&background=0D1117&ring=ea80fc&fire=ff80ab&currStreakLabel=b388ff&border_radius=12" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=satriyoo09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎮 Featured Projects
+### 🔥 Contribution Streak & Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=satriyoo09&background=0c0002&ring=ff2a5f&fire=ff4b72&currStreakLabel=e3d5d7&sideNums=e3d5d7&sideLabels=e3d5d7&dates=e3d5d7&border=4a0b17&border_radius=12" width="100%" alt="GitHub Streak" />
+</p>
 
-[![project-1](https://github-readme-stats.vercel.app/api/pin/?username=satriyoo09&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea80fc&icon_color=b388ff&border_radius=12)](https://github.com/satriyoo09/project-1)
-[![ElysiaApp](https://github-readme-stats.vercel.app/api/pin/?username=satriyoo09&repo=ElysiaApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ea80fc&icon_color=b388ff&border_radius=12)](https://github.com/satriyoo09/ElysiaApp)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satriyoo09&bg_color=0c0002&color=ff4b72&line=ff2a5f&point=ffffff&area=true&hide_border=true&radius=12" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
-## 🌙 Activity Graph
+### 🎮 Featured Projects
 
 <div align="center">
 
-[![Wicaksono's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satriyoo09&bg_color=0d1117&color=b388ff&line=ea80fc&point=ff80ab&area=true&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![project-1](https://github-readme-stats.vercel.app/api/pin/?username=satriyoo09&repo=project-1&bg_color=0c0002&title_color=ff2a5f&icon_color=ff4b72&text_color=e3d5d7&border_color=4a0b17&border_radius=12)](https://github.com/satriyoo09/project-1)
+[![ElysiaApp](https://github-readme-stats.vercel.app/api/pin/?username=satriyoo09&repo=ElysiaApp&bg_color=0c0002&title_color=ff2a5f&icon_color=ff4b72&text_color=e3d5d7&border_color=4a0b17&border_radius=12)](https://github.com/satriyoo09/ElysiaApp)
 
 </div>
 
@@ -119,8 +91,8 @@ fun_fact: >
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=satriyoo09&color=b388ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=satriyoo09&color=ff2a5f&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff80ab,50:ea80fc,100:b388ff&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0b17,50:ff2a5f,100:ff4b72&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
