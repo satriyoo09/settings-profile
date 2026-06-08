@@ -14,58 +14,58 @@
 ---
 
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Left Column: Bio & Tech Stack -->
-    <td width="55%" valign="top">
-      
-      <h3>💮 Profile Details</h3>
-      <ul>
-        <li><b>Name:</b> Satriyo</li>
-        <li><b>Age:</b> 16 Years Old</li>
-        <li><b>Class:</b> XPPLG6 (Software Product Development)</li>
-        <li><b>School:</b> SMK Telkom Purwokerto</li>
-        <li><b>Location:</b> Adisana - Situmang - Banyumas, Jawa Tengah, Indonesia 🇮🇩</li>
-        <li><b>Goal:</b> Becoming a Game Developer 🎮</li>
-        <li><b>Hobby:</b> Bermain Game</li>
-        <li><b>Waifus:</b> March 7th, Evernight, Hysiles, Rimuru, Lilith</li>
-      </ul>
+<tr>
+<!-- Left Column: Bio & Tech Stack -->
+<td width="55%" valign="top">
 
-      <br/>
+<h3>💮 Profile Details</h3>
+<ul>
+<li><b>Name:</b> Satriyo</li>
+<li><b>Age:</b> 16 Years Old</li>
+<li><b>Class:</b> XPPLG6 (Software Product Development)</li>
+<li><b>School:</b> SMK Telkom Purwokerto</li>
+<li><b>Location:</b> Adisana - Situmang - Banyumas, Jawa Tengah, Indonesia 🇮🇩</li>
+<li><b>Goal:</b> Becoming a Game Developer 🎮</li>
+<li><b>Hobby:</b> Bermain Game</li>
+<li><b>Waifus:</b> March 7th, Evernight, Hysiles, Rimuru, Lilith</li>
+</ul>
 
-      <h3>📚 Learning Progress</h3>
-      <p><i>Currently mastering and exploring:</i></p>
-      
-      <a href="https://godotengine.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white&color=8B0000" alt="Godot" />
-      </a>
-      <a href="https://unity.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=5C0000" alt="Unity" />
-      </a>
+<br/>
 
-      <br/><br/>
+<h3>📚 Learning Progress</h3>
+<p><i>Currently mastering and exploring:</i></p>
 
-      <h3>⚔️ Tech Arsenal</h3>
-      <ul>
-        <li><b>Languages:</b> C#, GDScript, Python, TypeScript</li>
-        <li><b>Engines:</b> Unity, Godot</li>
-        <li><b>AI & ML:</b> TensorFlow, PyTorch</li>
-        <li><b>Tools:</b> Git, GitHub, VS Code</li>
-      </ul>
+<a href="https://godotengine.org/" target="_blank">
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white&color=8B0000" alt="Godot" />
+</a>
+<a href="https://unity.com/" target="_blank">
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&color=5C0000" alt="Unity" />
+</a>
 
-    </td>
-    <!-- Right Column: GitHub Statistics -->
-    <td width="45%" valign="top" align="center">
+<br/><br/>
 
-      <h3>📊 GitHub Statistics</h3>
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=satriyoo09&show_icons=true&bg_color=0c0002&title_color=ff2a5f&icon_color=ff4b72&text_color=e3d5d7&border_color=4a0b17&border_radius=12" width="100%" alt="GitHub Stats" />
-      
-      <br/><br/>
-      
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriyoo09&layout=compact&bg_color=0c0002&title_color=ff2a5f&text_color=e3d5d7&icon_color=ff4b72&border_color=4a0b17&border_radius=12" width="100%" alt="Top Languages" />
+<h3>⚔️ Tech Arsenal</h3>
+<ul>
+<li><b>Languages:</b> C#, GDScript, Python, TypeScript</li>
+<li><b>Engines:</b> Unity, Godot</li>
+<li><b>AI & ML:</b> TensorFlow, PyTorch</li>
+<li><b>Tools:</b> Git, GitHub, VS Code</li>
+</ul>
 
-    </td>
-  </tr>
+</td>
+<!-- Right Column: GitHub Statistics -->
+<td width="45%" valign="top" align="center">
+
+<h3>📊 GitHub Statistics</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=satriyoo09&show_icons=true&bg_color=0c0002&title_color=ff2a5f&icon_color=ff4b72&text_color=e3d5d7&border_color=4a0b17&border_radius=12" width="100%" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriyoo09&layout=compact&bg_color=0c0002&title_color=ff2a5f&text_color=e3d5d7&icon_color=ff4b72&border_color=4a0b17&border_radius=12" width="100%" alt="Top Languages" />
+
+</td>
+</tr>
 </table>
 
 ---
