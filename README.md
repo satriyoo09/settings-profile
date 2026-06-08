@@ -5,8 +5,6 @@
 
 <br/><br/>
 
-# 🐙 The normal Human
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF3355&center=true&vCenter=true&width=500&lines=Game+Developer+in+the+making;Learning+Unity+%26+Godot;A+Human+living+the+dream;satriyoo09)](https://git.io/typing-svg)
 
 </div>
