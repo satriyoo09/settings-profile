@@ -78,17 +78,6 @@
 
 ---
 
-### 🎮 Featured Projects
-
-<div align="center">
-
-[![project-1](https://github-readme-stats.vercel.app/api/pin/?username=satriyoo09&repo=project-1&bg_color=0c0002&title_color=ff2a5f&icon_color=ff4b72&text_color=e3d5d7&border_color=4a0b17&border_radius=12)](https://github.com/satriyoo09/project-1)
-[![ElysiaApp](https://github-readme-stats.vercel.app/api/pin/?username=satriyoo09&repo=ElysiaApp&bg_color=0c0002&title_color=ff2a5f&icon_color=ff4b72&text_color=e3d5d7&border_color=4a0b17&border_radius=12)](https://github.com/satriyoo09/ElysiaApp)
-
-</div>
-
----
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=satriyoo09&color=ff2a5f&style=for-the-badge&label=PROFILE+VIEWS)
