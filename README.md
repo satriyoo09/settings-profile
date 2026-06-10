@@ -32,18 +32,6 @@
 
 ---
 
-### 🔥 Contribution Streak & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=satriyoo09&background=0c0002&ring=ff2a5f&fire=ff4b72&currStreakLabel=e3d5d7&sideNums=e3d5d7&sideLabels=e3d5d7&dates=e3d5d7&border=4a0b17&border_radius=12" width="100%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satriyoo09&bg_color=0c0002&color=ff4b72&line=ff2a5f&point=ffffff&area=true&hide_border=true&radius=12" width="100%" alt="Activity Graph" />
-</p>
-
----
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=satriyoo09&color=ff2a5f&style=for-the-badge&label=PROFILE+VIEWS)
